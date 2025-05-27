@@ -1,0 +1,80 @@
+[2025-05-04 20:20:12.530183] [0x00003a38] [trace]   Embedded OCIO configuration file: 'C:\Users\Vaidik.Laptop\Downloads\Meshroom-2023.3.0-win64\Meshroom-2023.3.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * contrastFiltering =  Unknown Type "enum aliceVision::feature::EFeatureConstrastFiltering"
+ * describerPreset =  Unknown Type "enum aliceVision::feature::EImageDescriberPreset"
+ * describerQuality =  Unknown Type "enum aliceVision::feature::EFeatureQuality"
+ * describerTypes = "dspsift"
+ * forceCpuExtraction = 1
+ * gridFiltering = 1
+ * input = "C:/The Software Vault/pars/photos/MeshroomCache/CameraInit/4aac0589aaee46ad4fc38297114278e6377cd169/cameraInit.sfm"
+ * maskExtension = "png"
+ * maskInvert = 0
+ * masksFolder = ""
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * maxNbFeatures = 0 (default)
+ * maxThreads = 0
+ * output = "C:/The Software Vault/pars/photos/MeshroomCache/FeatureExtraction/fa6ef37c6c5ab22cb5780e3dbea98cabbd956448"
+ * rangeSize = 40
+ * rangeStart = 0
+ * relativePeakThreshold = 0.02 (default)
+ * verboseLevel = "info"
+ * workingColorSpace =  Unknown Type "enum aliceVision::image::EImageColorSpace"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 12990 Mo
+
+[20:20:12.533274][info] CUDA-Enabled GPU.
+Device information:
+	- id:                      0
+	- name:                    NVIDIA GeForce RTX 4050 Laptop GPU
+	- compute capability:      8.9
+	- clock frequency (kHz):   2055000
+	- total device memory:     6140 MB 
+	- device memory available: 5065 MB 
+	- per-block shared memory: 49152
+	- warp size:               32
+	- max threads per block:   1024
+	- max threads per SM(X):   1536
+	- max block sizes:         {1024,1024,64}
+	- max grid sizes:          {2147483647,65535,65535}
+	- max 2D array texture:    {131072,65536}
+	- max 3D array texture:    {16384,16384,16384}
+	- max 2D linear texture:   {131072,65000,2097120}
+	- max 2D layered texture:  {32768,32768,2048}
+	- number of SM(x)s:        20
+	- registers per SM(x):     65536
+	- registers per block:     65536
+	- concurrent kernels:      yes
+	- mapping host memory:     yes
+	- unified addressing:      yes
+	- texture alignment:       512 byte
+	- pitch alignment:         32 byte
+CUDA build version: 11.6
+0
+[20:20:12.609068][info] Job max memory consumption for one image: 103 MB
+[20:20:12.609068][info] Memory information: 
+	- Total RAM:     23.7147 GB
+	- Free RAM:      12.5815 GB
+	- Available RAM: 12.5815 GB
+	- Total swap:    131072 GB
+	- Free swap:     131027 GB
+[20:20:12.609068][info] Max number of threads regarding memory usage: 112
+[20:20:12.609068][info] # threads for extraction: 7
+[20:20:12.621021][info] Extracting dspsift features from view 'C:/The Software Vault/pars/photos/frame_001.jpg' [cpu]
+[20:20:12.623159][info] Extracting dspsift features from view 'C:/The Software Vault/pars/photos/frame_004.jpg' [cpu]
+[20:20:12.623159][info] Extracting dspsift features from view 'C:/The Software Vault/pars/photos/frame_002.jpg' [cpu]
+[20:20:12.624155][info] Extracting dspsift features from view 'C:/The Software Vault/pars/photos/frame_003.jpg' [cpu]
+[20:20:12.625159][info] Extracting dspsift features from view 'C:/The Software Vault/pars/photos/frame_000.jpg' [cpu]
+[20:20:12.626158][info] Extracting dspsift features from view 'C:/The Software Vault/pars/photos/frame_005.jpg' [cpu]
+[20:20:12.629803][info] Extracting dspsift features from view 'C:/The Software Vault/pars/photos/frame_009.jpg' [cpu]
+[20:20:13.348838][info]       5146 dspsift features extracted from view 'C:/The Software Vault/pars/photos/frame_003.jpg'
+[20:20:13.509353][info]       5106 dspsift features extracted from view 'C:/The Software Vault/pars/photos/frame_004.jpg'
+[20:20:13.982538][info]       5230 dspsift features extracted from view 'C:/The Software Vault/pars/photos/frame_005.jpg'
+[20:20:13.993773][info]       5260 dspsift features extracted from view 'C:/The Software Vault/pars/photos/frame_001.jpg'
+[20:20:14.006418][info]       5191 dspsift features extracted from view 'C:/The Software Vault/pars/photos/frame_002.jpg'
+[20:20:14.012329][info]       5304 dspsift features extracted from view 'C:/The Software Vault/pars/photos/frame_009.jpg'
+[20:20:14.114532][info]       6492 dspsift features extracted from view 'C:/The Software Vault/pars/photos/frame_000.jpg'
+[20:20:14.114532][info] Task done in (s): 1.505000

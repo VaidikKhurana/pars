@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureExtraction_1",
+    "nodeType": "FeatureExtraction",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureExtraction  --input \"C:/The Software Vault/pars/photos/MeshroomCache/CameraInit/322ae4681060538bd18c1b3ba4a05665a72300e1/cameraInit.sfm\" --masksFolder \"\" --maskExtension png --maskInvert False --describerTypes dspsift --describerPreset normal --describerQuality normal --contrastFiltering GridSort --gridFiltering True --workingColorSpace sRGB --forceCpuExtraction True --maxThreads 0 --verboseLevel info --output \"C:/The Software Vault/pars/photos/MeshroomCache/FeatureExtraction/295189309c23cb5439ef34a95ade1fd98031363d\" --rangeStart 0 --rangeSize 40",
+    "env": null,
+    "startDateTime": "2025-05-04 20:18:06.156852",
+    "endDateTime": "2025-05-04 20:18:12.166931",
+    "elapsedTime": 6.0100789070129395,
+    "hostname": "vaidik-laptop",
+    "sessionUid": "a9c983d8-28f6-11f0-8b22-d87cddfd3cea",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:06.010079"
+}

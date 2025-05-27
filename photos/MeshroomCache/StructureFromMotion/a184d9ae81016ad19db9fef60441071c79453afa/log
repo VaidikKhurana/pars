@@ -1,0 +1,701 @@
+[2025-05-04 20:19:33.468606] [0x000018d0] [trace]   Embedded OCIO configuration file: 'C:\Users\Vaidik.Laptop\Downloads\Meshroom-2023.3.0-win64\Meshroom-2023.3.0\aliceVision/share/aliceVision/config.ocio' found.
+Program called with the following parameters:
+ * bundleAdjustmentMaxOutliers = 50
+ * computeStructureColor = 1
+ * describerTypes = "dspsift"
+ * extraInfoFolder = "C:/The Software Vault/pars/photos/MeshroomCache/StructureFromMotion/a184d9ae81016ad19db9fef60441071c79453afa"
+ * featuresFolders =  = [C:/The Software Vault/pars/photos/MeshroomCache/FeatureExtraction/295189309c23cb5439ef34a95ade1fd98031363d]
+ * filterTrackForks = 0
+ * initialPairA = ""
+ * initialPairB = ""
+ * input = "C:/The Software Vault/pars/photos/MeshroomCache/CameraInit/322ae4681060538bd18c1b3ba4a05665a72300e1/cameraInit.sfm"
+ * interFileExtension = ".abc"
+ * localBAGraphDistance = 1
+ * localizerEstimator =  Unknown Type "enum aliceVision::robustEstimation::ERobustEstimator"
+ * localizerEstimatorError = 0
+ * localizerEstimatorMaxIterations = 4096
+ * lockAllIntrinsics = 0
+ * lockScenePreviouslyReconstructed = 0
+ * logIntermediateSteps = 0
+ * matchesFolders =  = [C:/The Software Vault/pars/photos/MeshroomCache/FeatureMatching/761775d26094e2591538901e3f6e716c2b92bb58]
+ * maxAngleInitialPair = 40
+ * maxCoresAvailable =  Unknown Type "unsigned int" (default)
+ * maxImagesPerGroup = 30
+ * maxMemoryAvailable = 18446744073709551615 (default)
+ * maxNumberOfMatches = 0
+ * maxReprojectionError = 4
+ * minAngleForLandmark = 2
+ * minAngleForTriangulation = 3
+ * minAngleInitialPair = 5
+ * minInputTrackLength = 2
+ * minNbCamerasToRefinePrincipalPoint = 3
+ * minNumberOfMatches = 0
+ * minNumberOfObservationsForTriangulation = 2
+ * nbFirstUnstableCameras = 30
+ * observationConstraint =  Unknown Type "enum aliceVision::sfm::EFeatureConstraint"
+ * output = "C:/The Software Vault/pars/photos/MeshroomCache/StructureFromMotion/a184d9ae81016ad19db9fef60441071c79453afa/sfm.abc"
+ * outputViewsAndPoses = "C:/The Software Vault/pars/photos/MeshroomCache/StructureFromMotion/a184d9ae81016ad19db9fef60441071c79453afa/cameras.sfm"
+ * randomSeed = 5489 (default)
+ * rigMinNbCamerasForCalibration = 20
+ * useAutoTransform = 1
+ * useLocalBA = 1
+ * useOnlyMatchesFromInputFolder = 0
+ * useRigConstraint = 1
+ * verboseLevel = "info"
+
+Hardware : 
+	Detected core count : 16
+	OpenMP will use 16 cores
+	Detected available memory : 12963 Mo
+
+Loading features
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[20:19:34.403706][info] Fuse matches into tracks: 
+	- # tracks: 8995
+	- # images in tracks: 30
+[20:19:34.404797][info] TrackLength, Occurrence
+[20:19:34.404797][info] 	2	4099
+[20:19:34.404797][info] 	3	1262
+[20:19:34.404797][info] 	4	601
+[20:19:34.404797][info] 	5	420
+[20:19:34.404797][info] 	6	315
+[20:19:34.404797][info] 	7	240
+[20:19:34.404797][info] 	8	173
+[20:19:34.404797][info] 	9	160
+[20:19:34.404797][info] 	10	137
+[20:19:34.404797][info] 	11	128
+[20:19:34.404797][info] 	12	88
+[20:19:34.404797][info] 	13	103
+[20:19:34.404797][info] 	14	78
+[20:19:34.404797][info] 	15	77
+[20:19:34.404797][info] 	16	62
+[20:19:34.404797][info] 	17	66
+[20:19:34.404797][info] 	18	77
+[20:19:34.404797][info] 	19	76
+[20:19:34.404797][info] 	20	68
+[20:19:34.404797][info] 	21	79
+[20:19:34.404797][info] 	22	81
+[20:19:34.404797][info] 	23	81
+[20:19:34.404797][info] 	24	89
+[20:19:34.404797][info] 	25	72
+[20:19:34.404797][info] 	26	59
+[20:19:34.404797][info] 	27	53
+[20:19:34.404797][info] 	28	54
+[20:19:34.404797][info] 	29	64
+[20:19:34.404797][info] 	30	133
+Automatic selection of an initial pair:
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+[20:19:36.188920][info] Initial pair is:
+	- [A] view id: 1286970521, filepath: C:/The Software Vault/pars/photos/frame_005.jpg
+	- [B] view id: 1933177342, filepath: C:/The Software Vault/pars/photos/frame_007.jpg
+[20:19:36.189920][info] 1165 matches in the image pair for the initial pose estimation.
+[20:19:36.420493][info] Bundle adjustment start.
+[20:19:36.420493][info] Start bundle adjustment iteration: 0
+[20:19:36.422495][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.000814 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  6
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 12
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 1.04064
+	- final   RMSE: 1.73395e-09
+[20:19:36.422495][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[20:19:36.422495][info] Bundle adjustment iteration: 0 took 2 msec.
+[20:19:36.422495][info] Bundle adjustment with 1 iterations took 2 msec.
+[20:19:36.422495][info] Initial pair is:
+	- [A] view id: 937229271, filepath: C:/The Software Vault/pars/photos/frame_014.jpg
+	- [B] view id: 1063034554, filepath: C:/The Software Vault/pars/photos/frame_011.jpg
+[20:19:36.423496][info] 1162 matches in the image pair for the initial pose estimation.
+[20:19:36.650926][info] Bundle adjustment start.
+[20:19:36.650926][info] Start bundle adjustment iteration: 0
+[20:19:36.653927][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0016166 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  28
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 56
+	- # successful iterations: 6
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.515837
+	- final   RMSE: 0.301078
+[20:19:36.653927][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[20:19:36.653927][info] Bundle adjustment iteration: 0 took 3 msec.
+[20:19:36.653927][info] Bundle adjustment with 1 iterations took 3 msec.
+[20:19:36.655054][info] Initial pair is:
+	- [A] view id: 907047222, filepath: C:/The Software Vault/pars/photos/frame_013.jpg
+	- [B] view id: 1286970521, filepath: C:/The Software Vault/pars/photos/frame_005.jpg
+[20:19:36.655054][info] 1153 matches in the image pair for the initial pose estimation.
+[20:19:36.890735][info] Bundle adjustment start.
+[20:19:36.890735][info] Start bundle adjustment iteration: 0
+[20:19:36.895735][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0033215 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  20
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 40
+	- # successful iterations: 19
+	- # unsuccessful iterations: 1
+	- initial RMSE: 0.57906
+	- final   RMSE: 0.250415
+[20:19:36.895735][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 2
+[20:19:36.895735][info] Bundle adjustment iteration: 0 took 4 msec.
+[20:19:36.895735][info] Start bundle adjustment iteration: 1
+[20:19:36.897735][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0003053 s
+	- poses:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  1
+	- # residual blocks: 0
+	- # successful iterations: 18446744073709551615
+	- # unsuccessful iterations: 18446744073709551615
+	- initial RMSE: -nan(ind)
+	- final   RMSE: -nan(ind)
+[20:19:36.897735][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[20:19:36.897735][info] Bundle adjustment iteration: 1 took 1 msec.
+[20:19:36.897735][info] Bundle adjustment with 2 iterations took 6 msec.
+[20:19:36.897735][info] Initial pair is:
+	- [A] view id: 743352567, filepath: C:/The Software Vault/pars/photos/frame_008.jpg
+	- [B] view id: 1063034554, filepath: C:/The Software Vault/pars/photos/frame_011.jpg
+[20:19:36.898735][info] 1171 matches in the image pair for the initial pose estimation.
+[20:19:37.128164][info] Bundle adjustment start.
+[20:19:37.128164][info] Start bundle adjustment iteration: 0
+[20:19:37.132164][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0026712 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  24
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 48
+	- # successful iterations: 14
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.921589
+	- final   RMSE: 0.627661
+[20:19:37.132164][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 1
+[20:19:37.132164][info] Bundle adjustment iteration: 0 took 3 msec.
+[20:19:37.132164][info] Start bundle adjustment iteration: 1
+[20:19:37.134164][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0003368 s
+	- poses:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  1
+	- # residual blocks: 0
+	- # successful iterations: 18446744073709551615
+	- # unsuccessful iterations: 18446744073709551615
+	- initial RMSE: -nan(ind)
+	- final   RMSE: -nan(ind)
+[20:19:37.134164][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[20:19:37.134164][info] Bundle adjustment iteration: 1 took 1 msec.
+[20:19:37.134164][info] Bundle adjustment with 2 iterations took 5 msec.
+[20:19:37.134164][info] Initial pair is:
+	- [A] view id: 1286970521, filepath: C:/The Software Vault/pars/photos/frame_005.jpg
+	- [B] view id: 1946073435, filepath: C:/The Software Vault/pars/photos/frame_006.jpg
+[20:19:37.135165][info] 1197 matches in the image pair for the initial pose estimation.
+[20:19:37.368435][info] Bundle adjustment start.
+[20:19:37.368435][info] Start bundle adjustment iteration: 0
+[20:19:37.376072][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0052575 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  404
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 808
+	- # successful iterations: 11
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.626032
+	- final   RMSE: 0.471879
+[20:19:37.376072][info] Remove outliers: 
+	- # outliers residual error: 2
+	- # outliers angular error: 174
+[20:19:37.376072][info] Bundle adjustment iteration: 0 took 7 msec.
+[20:19:37.376072][info] Start bundle adjustment iteration: 1
+[20:19:37.378151][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0003338 s
+	- poses:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  1
+	- # residual blocks: 0
+	- # successful iterations: 18446744073709551615
+	- # unsuccessful iterations: 18446744073709551615
+	- initial RMSE: -nan(ind)
+	- final   RMSE: -nan(ind)
+[20:19:37.378151][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[20:19:37.378151][info] Bundle adjustment iteration: 1 took 2 msec.
+[20:19:37.378151][info] Bundle adjustment with 2 iterations took 9 msec.
+[20:19:37.378151][info] Initial pair is:
+	- [A] view id: 907047222, filepath: C:/The Software Vault/pars/photos/frame_013.jpg
+	- [B] view id: 1946073435, filepath: C:/The Software Vault/pars/photos/frame_006.jpg
+[20:19:37.379151][info] 1113 matches in the image pair for the initial pose estimation.
+[20:19:37.597906][info] Bundle adjustment start.
+[20:19:37.599102][info] Start bundle adjustment iteration: 0
+[20:19:37.602101][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0022577 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  32
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 64
+	- # successful iterations: 9
+	- # unsuccessful iterations: 2
+	- initial RMSE: 0.947574
+	- final   RMSE: 0.678218
+[20:19:37.602101][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[20:19:37.602101][info] Bundle adjustment iteration: 0 took 3 msec.
+[20:19:37.602101][info] Bundle adjustment with 1 iterations took 3 msec.
+[20:19:37.602101][info] Initial pair is:
+	- [A] view id: 937229271, filepath: C:/The Software Vault/pars/photos/frame_014.jpg
+	- [B] view id: 1063127440, filepath: C:/The Software Vault/pars/photos/frame_010.jpg
+[20:19:37.603101][info] 1156 matches in the image pair for the initial pose estimation.
+[20:19:37.830176][info] Bundle adjustment start.
+[20:19:37.830176][info] Start bundle adjustment iteration: 0
+[20:19:37.841114][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0092599 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  34
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 68
+	- # successful iterations: 49
+	- # unsuccessful iterations: 2
+	- initial RMSE: 0.674267
+	- final   RMSE: 0.508764
+[20:19:37.841114][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 6
+[20:19:37.841114][info] Bundle adjustment iteration: 0 took 10 msec.
+[20:19:37.841114][info] Start bundle adjustment iteration: 1
+[20:19:37.843233][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0003649 s
+	- poses:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  1
+	- # residual blocks: 0
+	- # successful iterations: 18446744073709551615
+	- # unsuccessful iterations: 18446744073709551615
+	- initial RMSE: -nan(ind)
+	- final   RMSE: -nan(ind)
+[20:19:37.843233][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[20:19:37.843233][info] Bundle adjustment iteration: 1 took 2 msec.
+[20:19:37.843233][info] Bundle adjustment with 2 iterations took 13 msec.
+[20:19:37.843233][info] Initial pair is:
+	- [A] view id: 743352567, filepath: C:/The Software Vault/pars/photos/frame_008.jpg
+	- [B] view id: 1933177342, filepath: C:/The Software Vault/pars/photos/frame_007.jpg
+[20:19:37.844235][info] 1140 matches in the image pair for the initial pose estimation.
+[20:19:38.071006][info] Bundle adjustment start.
+[20:19:38.071006][info] Start bundle adjustment iteration: 0
+[20:19:38.074006][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0014063 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  28
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 56
+	- # successful iterations: 5
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.702912
+	- final   RMSE: 0.125081
+[20:19:38.074006][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[20:19:38.074006][info] Bundle adjustment iteration: 0 took 2 msec.
+[20:19:38.074006][info] Bundle adjustment with 1 iterations took 2 msec.
+[20:19:38.074006][info] Initial pair is:
+	- [A] view id: 743352567, filepath: C:/The Software Vault/pars/photos/frame_008.jpg
+	- [B] view id: 907047222, filepath: C:/The Software Vault/pars/photos/frame_013.jpg
+[20:19:38.075006][info] 1137 matches in the image pair for the initial pose estimation.
+[20:19:38.297127][info] Bundle adjustment start.
+[20:19:38.297127][info] Start bundle adjustment iteration: 0
+[20:19:38.306128][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0074368 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  20
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 40
+	- # successful iterations: 43
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.5185
+	- final   RMSE: 0.202084
+[20:19:38.306128][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 7
+[20:19:38.306128][info] Bundle adjustment iteration: 0 took 8 msec.
+[20:19:38.306128][info] Start bundle adjustment iteration: 1
+[20:19:38.308127][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0004017 s
+	- poses:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  1
+	- # residual blocks: 0
+	- # successful iterations: 18446744073709551615
+	- # unsuccessful iterations: 18446744073709551615
+	- initial RMSE: -nan(ind)
+	- final   RMSE: -nan(ind)
+[20:19:38.308127][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[20:19:38.308127][info] Bundle adjustment iteration: 1 took 1 msec.
+[20:19:38.308127][info] Bundle adjustment with 2 iterations took 10 msec.
+[20:19:38.308127][info] Initial pair is:
+	- [A] view id: 906214566, filepath: C:/The Software Vault/pars/photos/frame_012.jpg
+	- [B] view id: 1946073435, filepath: C:/The Software Vault/pars/photos/frame_006.jpg
+[20:19:38.309130][info] 1127 matches in the image pair for the initial pose estimation.
+[20:19:38.527086][info] Bundle adjustment start.
+[20:19:38.528087][info] Start bundle adjustment iteration: 0
+[20:19:38.543087][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0110663 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  1932
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 3864
+	- # successful iterations: 7
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.430554
+	- final   RMSE: 0.384511
+[20:19:38.544087][info] Remove outliers: 
+	- # outliers residual error: 1
+	- # outliers angular error: 828
+[20:19:38.544087][info] Bundle adjustment iteration: 0 took 16 msec.
+[20:19:38.544087][info] Start bundle adjustment iteration: 1
+[20:19:38.548087][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0026736 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  274
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 548
+	- # successful iterations: 6
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.613482
+	- final   RMSE: 0.598655
+[20:19:38.549087][info] Remove outliers: 
+	- # outliers residual error: 1
+	- # outliers angular error: 0
+[20:19:38.549087][info] Bundle adjustment iteration: 1 took 4 msec.
+[20:19:38.549087][info] Start bundle adjustment iteration: 2
+[20:19:38.552088][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0020066 s
+	- poses:
+	    - # refined:  2
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  272
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 1
+	    - # ignored:  0
+	- # residual blocks: 544
+	- # successful iterations: 4
+	- # unsuccessful iterations: 0
+	- initial RMSE: 0.572226
+	- final   RMSE: 0.564045
+[20:19:38.552088][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[20:19:38.552088][info] Bundle adjustment iteration: 2 took 3 msec.
+[20:19:38.552088][info] Bundle adjustment with 3 iterations took 24 msec.
+[20:19:38.553087][info] Initial pair is: 906214566, 1946073435
+[20:19:38.553087][info] Begin Incremental Reconstruction:
+	- mode: SfM augmentation
+	- # images in input: 30
+	- # landmarks in input: 136
+	- # cameras already calibrated: 2
+[20:19:38.553087][info] Incremental Reconstruction start iteration 0:
+	- # number of resection groups: 1
+	- # number of poses: 2
+	- # number of landmarks: 136
+[20:19:38.553087][info] Update Reconstruction:
+	- resection id: 1
+	- # images in the resection group: 1
+	- # images remaining: 28
+[20:19:38.553087][info] [3/30] Robust Resection of view: 1063860075
+[20:19:38.569331][info] Bundle adjustment start.
+[20:19:38.569331][info] Start bundle adjustment iteration: 0
+[20:19:38.608331][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0369912 s
+	- poses:
+	    - # refined:  3
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  487
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  1
+	    - # constant: 0
+	    - # ignored:  0
+	- # residual blocks: 974
+	- # successful iterations: 48
+	- # unsuccessful iterations: 3
+	- initial RMSE: 1.27353
+	- final   RMSE: 0.958622
+[20:19:38.608331][info] Remove outliers: 
+	- # outliers residual error: 24
+	- # outliers angular error: 157
+[20:19:38.608331][info] Bundle adjustment iteration: 0 took 39 msec.
+[20:19:38.608331][info] Start bundle adjustment iteration: 1
+[20:19:38.610331][info] Bundle Adjustment Statistics:
+	- local strategy enabled: no
+	- adjustment duration: 0.0003442 s
+	- poses:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- landmarks:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  0
+	- intrinsics:
+	    - # refined:  0
+	    - # constant: 0
+	    - # ignored:  1
+	- # residual blocks: 0
+	- # successful iterations: 18446744073709551615
+	- # unsuccessful iterations: 18446744073709551615
+	- initial RMSE: -nan(ind)
+	- final   RMSE: -nan(ind)
+[20:19:38.610331][info] Remove outliers: 
+	- # outliers residual error: 0
+	- # outliers angular error: 0
+[20:19:38.610331][info] Bundle adjustment iteration: 1 took 1 msec.
+[20:19:38.610331][info] Bundle adjustment with 2 iterations took 41 msec.
+[20:19:38.610331][info] Incremental Reconstruction start iteration 1:
+	- # number of resection groups: 2
+	- # number of poses: 0
+	- # number of landmarks: 0
+[20:19:38.610331][info] Incremental Reconstruction completed with 2 iterations:
+	- # number of resection groups: 2
+	- # number of poses: 0
+	- # number of landmarks: 0
+[20:19:38.610331][info] Structure from Motion statistics:
+	- # input images: 30
+	- # cameras calibrated: 0
+	- # poses: 0
+	- # landmarks: 0
+	- elapsed time: 0.057
+	- residual RMSE: -1
+[20:19:38.610331][info] Histogram of residuals:
+
+0	|	0
+0.1	|	0
+0.2	|	0
+0.3	|	0
+0.4	|	0
+0.5	|	0
+0.6	|	0
+0.7	|	0
+0.8	|	0
+0.9	|	0
+1
+[20:19:38.610331][info] # landmarks: 0
+[20:19:38.610331][info] # overall observations: 0
+[20:19:38.610331][info] Landmarks observations length min: 0, mean: 0, median: 0, max: 0
+[20:19:38.610331][info] Histogram of observations length:
+
+0	|	0
+0.1	|	0
+0.2	|	0
+0.3	|	0
+0.4	|	0
+0.5	|	0
+0.6	|	0
+0.7	|	0
+0.8	|	0
+0.9	|	0
+1
+[20:19:38.610331][info] Landmarks per view min: 0, mean: 0, median: 0, max: 0
+[20:19:38.610331][info] Histogram of nb landmarks per view:
+
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+0	|	0
+1

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Model Viewer</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.1.2/socket.io.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/build/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/open3d.js@0.10.0/dist/open3d.min.js"></script>
+    <style>
+        body { margin: 0; overflow: hidden; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+    <script>
+        var socket = io.connect('http://' + document.domain + ':' + location.port);
+
+        // Create Open3D Viewer
+        let viewer;
+        let mesh;
+        let rotate_x = 0.0, rotate_y = 0.0, zoom = 1.0, trans_x = 0.0, trans_y = 0.0;
+
+        window.onload = function () {
+            viewer = new open3d.visualization.Visualizer();
+            viewer.create_view_window('3D Viewer', 640, 480);
+
+            // Load and display the model
+            open3d.io.read_triangle_mesh('http://localhost:5000/static/model.glb').then(function(model) {
+                mesh = model;
+                viewer.add_geometry(mesh);
+            });
+
+            // Handle gesture data from Flask backend
+            socket.on('gesture_data', function(data) {
+                rotate_x = data.rotate_x;
+                rotate_y = data.rotate_y;
+                zoom = data.zoom;
+                trans_x = data.trans_x;
+                trans_y = data.trans_y;
+
+                // Update the mesh based on the gesture data
+                mesh.rotate([rotate_x, rotate_y, 0]);
+                mesh.translate([trans_x, trans_y, 0]);
+                mesh.scale(zoom, mesh.get_center());
+            });
+        };
+    </script>
+</body>
+</html>

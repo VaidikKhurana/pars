@@ -1,0 +1,113 @@
+{
+    "version": [
+        1,
+        2,
+        6
+    ],
+    "views": [
+        {
+            "viewId": 766675777,
+            "poseId": 766675777,
+            "path": "C:/The Software Vault/pars/photos/frame_009.jpg",
+            "intrinsicId": 3751092446,
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1054349154,
+            "poseId": 1054349154,
+            "path": "C:/The Software Vault/pars/photos/frame_000.jpg",
+            "intrinsicId": 3751092446,
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1063626686,
+            "poseId": 1063626686,
+            "path": "C:/The Software Vault/pars/photos/frame_001.jpg",
+            "intrinsicId": 3751092446,
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1063860075,
+            "poseId": 1063860075,
+            "path": "C:/The Software Vault/pars/photos/frame_002.jpg",
+            "intrinsicId": 3751092446,
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1280619890,
+            "poseId": 1280619890,
+            "path": "C:/The Software Vault/pars/photos/frame_003.jpg",
+            "intrinsicId": 3751092446,
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1286970521,
+            "poseId": 1286970521,
+            "path": "C:/The Software Vault/pars/photos/frame_005.jpg",
+            "intrinsicId": 3751092446,
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": 1934124763,
+            "poseId": 1934124763,
+            "path": "C:/The Software Vault/pars/photos/frame_004.jpg",
+            "intrinsicId": 3751092446,
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": 3751092446,
+            "initialFocalLength": -1.0,
+            "focalLength": 43.45584412271571,
+            "pixelRatio": 1.0,
+            "pixelRatioLocked": true,
+            "type": "radial3",
+            "width": 640,
+            "height": 480,
+            "sensorWidth": 36.0,
+            "sensorHeight": 24.0,
+            "serialNumber": "C:/The Software Vault/pars/photos",
+            "principalPoint": [
+                0.0,
+                0.0
+            ],
+            "initializationMode": "unknown",
+            "distortionInitializationMode": "none",
+            "distortionParams": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "undistortionOffset": [
+                0.0,
+                0.0
+            ],
+            "undistortionParams": [],
+            "locked": false
+        }
+    ],
+    "featureFolder": "",
+    "matchingFolder": ""
+}

@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "ImageMatching_1",
+    "nodeType": "ImageMatching",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_imageMatching  --input \"C:/The Software Vault/pars/photos/MeshroomCache/CameraInit/322ae4681060538bd18c1b3ba4a05665a72300e1/cameraInit.sfm\" --featuresFolders \"C:/The Software Vault/pars/photos/MeshroomCache/FeatureExtraction/295189309c23cb5439ef34a95ade1fd98031363d\" --method SequentialAndVocabularyTree --tree \"C:\\Users\\Vaidik.Laptop\\Downloads\\Meshroom-2023.3.0-win64\\Meshroom-2023.3.0\\aliceVision\\share\\aliceVision\\vlfeat_K80L3.SIFT.tree\" --weights \"\" --minNbImages 200 --maxDescriptors 500 --nbMatches 40 --nbNeighbors 5 --verboseLevel info --output \"C:/The Software Vault/pars/photos/MeshroomCache/ImageMatching/aa0792bb0ac7367721e707d1c8b5d532ed5af7d4/imageMatches.txt\"",
+    "env": null,
+    "startDateTime": "2025-05-04 20:18:12.172907",
+    "endDateTime": "2025-05-04 20:18:12.573472",
+    "elapsedTime": 0.40056490898132324,
+    "hostname": "vaidik-laptop",
+    "sessionUid": "a9c983d8-28f6-11f0-8b22-d87cddfd3cea",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.400565"
+}

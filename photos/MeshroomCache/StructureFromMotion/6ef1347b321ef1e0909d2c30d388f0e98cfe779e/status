@@ -1,0 +1,18 @@
+{
+    "status": "ERROR",
+    "execMode": "LOCAL",
+    "nodeName": "StructureFromMotion_1",
+    "nodeType": "StructureFromMotion",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_incrementalSfM  --input \"C:/The Software Vault/pars/photos/MeshroomCache/CameraInit/4aac0589aaee46ad4fc38297114278e6377cd169/cameraInit.sfm\" --featuresFolders \"C:/The Software Vault/pars/photos/MeshroomCache/FeatureExtraction/fa6ef37c6c5ab22cb5780e3dbea98cabbd956448\" --matchesFolders \"C:/The Software Vault/pars/photos/MeshroomCache/FeatureMatching/2e30f2502fdebc0c978103c96c315182285a21b7\" --describerTypes dspsift --localizerEstimator acransac --observationConstraint Scale --localizerEstimatorMaxIterations 4096 --localizerEstimatorError 0.0 --lockScenePreviouslyReconstructed False --useLocalBA True --localBAGraphDistance 1 --nbFirstUnstableCameras 30 --maxImagesPerGroup 30 --bundleAdjustmentMaxOutliers 50 --maxNumberOfMatches 0 --minNumberOfMatches 0 --minInputTrackLength 2 --minNumberOfObservationsForTriangulation 2 --minAngleForTriangulation 3.0 --minAngleForLandmark 2.0 --maxReprojectionError 4.0 --minAngleInitialPair 5.0 --maxAngleInitialPair 40.0 --useOnlyMatchesFromInputFolder False --useRigConstraint True --rigMinNbCamerasForCalibration 20 --lockAllIntrinsics False --minNbCamerasToRefinePrincipalPoint 3 --filterTrackForks False --computeStructureColor True --useAutoTransform True --initialPairA \"\" --initialPairB \"\" --interFileExtension .abc --logIntermediateSteps False --verboseLevel info --output \"C:/The Software Vault/pars/photos/MeshroomCache/StructureFromMotion/6ef1347b321ef1e0909d2c30d388f0e98cfe779e/sfm.abc\" --outputViewsAndPoses \"C:/The Software Vault/pars/photos/MeshroomCache/StructureFromMotion/6ef1347b321ef1e0909d2c30d388f0e98cfe779e/cameras.sfm\" --extraInfoFolder \"C:/The Software Vault/pars/photos/MeshroomCache/StructureFromMotion/6ef1347b321ef1e0909d2c30d388f0e98cfe779e\"",
+    "env": null,
+    "startDateTime": "2025-05-04 20:20:15.178049",
+    "endDateTime": "",
+    "elapsedTime": 0,
+    "hostname": "vaidik-laptop",
+    "sessionUid": "a9c983d8-28f6-11f0-8b22-d87cddfd3cea",
+    "returnCode": 1,
+    "elapsedTimeStr": "0:00:00"
+}

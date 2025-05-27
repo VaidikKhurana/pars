@@ -1,0 +1,431 @@
+{
+    "version": [
+        "1",
+        "2",
+        "6"
+    ],
+    "views": [
+        {
+            "viewId": "17264815",
+            "poseId": "17264815",
+            "frameId": "19",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_019.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "18683656",
+            "poseId": "18683656",
+            "frameId": "18",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_018.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "50302383",
+            "poseId": "50302383",
+            "frameId": "17",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_017.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "228329001",
+            "poseId": "228329001",
+            "frameId": "29",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_029.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "738369305",
+            "poseId": "738369305",
+            "frameId": "28",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_028.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "743352567",
+            "poseId": "743352567",
+            "frameId": "8",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_008.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "766675777",
+            "poseId": "766675777",
+            "frameId": "9",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_009.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "849073122",
+            "poseId": "849073122",
+            "frameId": "16",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_016.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "850943754",
+            "poseId": "850943754",
+            "frameId": "15",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_015.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "855988746",
+            "poseId": "855988746",
+            "frameId": "26",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_026.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "857445111",
+            "poseId": "857445111",
+            "frameId": "24",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_024.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "859848462",
+            "poseId": "859848462",
+            "frameId": "22",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_022.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "863487722",
+            "poseId": "863487722",
+            "frameId": "25",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_025.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "868106138",
+            "poseId": "868106138",
+            "frameId": "23",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_023.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "906214566",
+            "poseId": "906214566",
+            "frameId": "12",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_012.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "907047222",
+            "poseId": "907047222",
+            "frameId": "13",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_013.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "937229271",
+            "poseId": "937229271",
+            "frameId": "14",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_014.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1054349154",
+            "poseId": "1054349154",
+            "frameId": "0",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_000.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1063034554",
+            "poseId": "1063034554",
+            "frameId": "11",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_011.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1063127440",
+            "poseId": "1063127440",
+            "frameId": "10",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_010.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1063626686",
+            "poseId": "1063626686",
+            "frameId": "1",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_001.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1063860075",
+            "poseId": "1063860075",
+            "frameId": "2",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_002.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1280619890",
+            "poseId": "1280619890",
+            "frameId": "3",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_003.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1286970521",
+            "poseId": "1286970521",
+            "frameId": "5",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_005.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1403062429",
+            "poseId": "1403062429",
+            "frameId": "27",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_027.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1518358142",
+            "poseId": "1518358142",
+            "frameId": "20",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_020.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1525478555",
+            "poseId": "1525478555",
+            "frameId": "21",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_021.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1933177342",
+            "poseId": "1933177342",
+            "frameId": "7",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_007.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1934124763",
+            "poseId": "1934124763",
+            "frameId": "4",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_004.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        },
+        {
+            "viewId": "1946073435",
+            "poseId": "1946073435",
+            "frameId": "6",
+            "intrinsicId": "3751092446",
+            "path": "C:\/The Software Vault\/pars\/photos\/frame_006.jpg",
+            "width": "640",
+            "height": "480",
+            "metadata": {
+                "jpeg:subsampling": "4:2:0",
+                "oiio:ColorSpace": "sRGB"
+            }
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "3751092446",
+            "width": "640",
+            "height": "480",
+            "sensorWidth": "36",
+            "sensorHeight": "24",
+            "serialNumber": "C:\/The Software Vault\/pars\/photos",
+            "type": "radial3",
+            "initializationMode": "unknown",
+            "initialFocalLength": "-1",
+            "focalLength": "43.45584412271571",
+            "pixelRatio": "1",
+            "pixelRatioLocked": "true",
+            "principalPoint": [
+                "0",
+                "0"
+            ],
+            "distortionInitializationMode": "none",
+            "distortionParams": [
+                "0",
+                "0",
+                "0"
+            ],
+            "undistortionOffset": [
+                "0",
+                "0"
+            ],
+            "undistortionParams": "",
+            "locked": "false"
+        }
+    ]
+}

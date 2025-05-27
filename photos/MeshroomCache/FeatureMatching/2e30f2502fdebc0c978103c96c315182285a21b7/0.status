@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureMatching_1",
+    "nodeType": "FeatureMatching",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureMatching  --input \"C:/The Software Vault/pars/photos/MeshroomCache/CameraInit/4aac0589aaee46ad4fc38297114278e6377cd169/cameraInit.sfm\" --featuresFolders \"C:/The Software Vault/pars/photos/MeshroomCache/FeatureExtraction/fa6ef37c6c5ab22cb5780e3dbea98cabbd956448\" --imagePairsList \"C:/The Software Vault/pars/photos/MeshroomCache/ImageMatching/6a6a81a05b11347e8155e1a920e92b0d1b85ac57/imageMatches.txt\" --describerTypes dspsift --photometricMatchingMethod ANN_L2 --geometricEstimator acransac --geometricFilterType fundamental_matrix --distanceRatio 0.8 --maxIteration 2048 --geometricError 0.0 --knownPosesGeometricErrorMax 5.0 --minRequired2DMotion -1.0 --maxMatches 0 --savePutativeMatches False --crossMatching False --guidedMatching False --matchFromKnownCameraPoses False --exportDebugFiles False --verboseLevel info --output \"C:/The Software Vault/pars/photos/MeshroomCache/FeatureMatching/2e30f2502fdebc0c978103c96c315182285a21b7\" --rangeStart 0 --rangeSize 20",
+    "env": null,
+    "startDateTime": "2025-05-04 20:20:14.347737",
+    "endDateTime": "2025-05-04 20:20:15.172048",
+    "elapsedTime": 0.8243112564086914,
+    "hostname": "vaidik-laptop",
+    "sessionUid": "a9c983d8-28f6-11f0-8b22-d87cddfd3cea",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.824311"
+}

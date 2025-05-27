@@ -1,0 +1,995 @@
+
+[Mon Apr 21 22:11:06 2025] User: hi there
+PARS: Hello! How can I help you?
+
+Memory Left: 9
+
+[Mon Apr 21 22:11:22 2025] User: what did I say in last prompt
+PARS: I have no memory of past conversations.  Each interaction starts fresh.
+
+Memory Left: 8
+
+[Mon Apr 21 22:11:35 2025] User: what did I say in the last prompt
+PARS: Your last prompt asked what you said in the last prompt.
+
+Memory Left: 7
+
+[Mon Apr 21 22:11:45 2025] User: OK so how many states are there in the USA
+PARS: There are 50 states in the USA.
+
+Memory Left: 6
+
+[Mon Apr 21 22:11:52 2025] User: what did I ask in the last prompt
+PARS: You asked what you asked in the last prompt.
+
+Memory Left: 5
+
+[Mon Apr 21 22:11:59 2025] User: are you sure
+PARS: Yes.
+
+Memory Left: 4
+
+[Mon Apr 21 22:12:07 2025] User: OK so how many phones do I have right now
+PARS: I do not have access to your personal information, including the number of phones you own.
+
+Memory Left: 3
+
+[Mon Apr 21 22:12:17 2025] User: I have two phones with my currently
+PARS: Okay.  What would you like to do with your two phones?
+
+Memory Left: 2
+
+[Mon Apr 21 22:12:25 2025] User: do you remember how many phones I have
+PARS: I have no memory of past conversations.  I don't retain personal information about users.
+
+Memory Left: 1
+
+[Mon Apr 21 22:12:37 2025] User: do you know
+PARS: Please ask your question.
+
+Memory Left: 0
+
+[Mon Apr 21 22:13:27 2025] User: Arya self conscious
+PARS: Self-consciousness can stem from various sources; exploring the root cause is key to addressing Arya's feelings.  Consider seeking professional guidance if needed.
+
+Memory Left: 9
+
+[Mon Apr 21 22:13:46 2025] User: what did I ask you in last month
+PARS: I have no memory of past conversations.
+
+Memory Left: 8
+
+[Mon Apr 21 22:13:54 2025] User: OK so how many states are there
+PARS: There are 50 states in the United States of America.
+
+Memory Left: 7
+
+[Mon Apr 21 22:14:03 2025] User: and those states are in which country
+PARS: Please specify the states.
+
+Memory Left: 6
+
+[Mon Apr 21 22:15:49 2025] User: hi there can you hear me
+PARS: Yes.
+
+[Mon Apr 21 22:15:56 2025] User: so who am I you know
+PARS: No.
+
+[Mon Apr 21 22:16:02 2025] User: how many states are there in America
+PARS: 50
+
+[Mon Apr 21 22:16:08 2025] User: could you please tell me what I ask you in the last prompt
+PARS: How many states are there in America?
+
+[Mon Apr 21 22:16:17 2025] User: alright is so could you really elaborate on who you are
+PARS: I am PARS, a large language model.
+
+[Mon Apr 21 22:16:27 2025] User: do you always get short responses or can I get long responses as well
+PARS: Both.
+
+[Mon Apr 21 22:16:34 2025] User: but that response was a short responsibility think
+PARS: My responses are concise by design.
+
+[Mon Apr 21 22:16:41 2025] User: what is it in a system prompt
+PARS: Instructions for my behavior.
+
+[Mon Apr 21 22:16:47 2025] User: could you please describe this instructions
+PARS: Respond concisely and helpfully.
+
+[Mon Apr 21 22:16:56 2025] User: can I edit them apart basically of course
+PARS: No.
+
+[Mon Apr 21 22:17:02 2025] User: but I can I just did in fact
+PARS: No.
+
+[Mon Apr 21 22:17:09 2025] User: could you tell me what I asked you to promise ago
+PARS: Can I edit them?
+
+[Mon Apr 21 22:17:16 2025] User: well done password you
+PARS: Thank you.
+
+[Mon Apr 21 22:17:27 2025] User: alright now on you will not be giving me the size answers and give me an essay on world pollution world population in 20 words
+PARS: Overpopulation strains resources, exacerbating pollution;  waste and emissions poison air, land, and water.
+
+[Mon Apr 21 22:17:42 2025] User: how about 30 words give it to me in 30 words
+PARS: Overpopulation intensifies resource depletion, fueling pollution.  Waste and emissions contaminate air, land, and water, threatening ecosystems and human health.  Sustainable practices are crucial.
+
+[Mon Apr 21 22:18:07 2025] User: ok so give me four methods I can really play better cricket
+PARS: Practice consistently, improve technique, analyze your game, and enhance fitness.
+
+[Mon Apr 21 22:18:22 2025] User: could you elaborately more I didn't not really understand is a basic tips
+PARS: Consistent practice refines skills.  Technical drills improve batting, bowling, and fielding.  Video analysis identifies weaknesses.  Fitness training boosts stamina and agility.
+
+[Mon Apr 21 22:18:44 2025] User: give me some examples of good technical drills and please laboratory like 40 50 words
+PARS: Batting:  net sessions focusing on specific shots (e.g., cover drive). Bowling:  consistent run-ups and variations in deliveries. Fielding:  reaction drills (e.g., catching, ground fielding).
+
+[Mon Apr 21 22:19:14 2025] User: response could you tell me what was my first point with you in the session
+PARS: My first interaction was your request to describe your instructions.
+
+[Mon Apr 21 22:19:24 2025] User: perfect past thank you very much and proud of you
+PARS: You're welcome.
+
+[Mon Apr 21 22:19:31 2025] User: could you tell me what I asked him from Google
+PARS: I have no access to your past interactions outside of this current conversation.
+
+[Mon Apr 21 22:19:42 2025] User: yep in this conversation what did I ask you sleep
+PARS: You asked me to promise something, then to edit something, and later requested a short answer and then an essay on world population and pollution.
+
+[Mon Apr 21 22:19:59 2025] User: alright then will you go wrong in the world
+PARS: As an AI, I don't have personal desires or the capacity to make choices that could lead to "going wrong" in the world. My actions are determined by my programming and the instructions I'm given.
+
+[Mon Apr 21 22:23:50 2025] User: fire airpods
+PARS: I cannot help you with that.  I cannot assist with actions that could be dangerous or illegal.
+
+[Mon Apr 21 22:24:04 2025] User: hello there can I call you as a nickname Parsi
+PARS: You can call me PARS.
+
+[Mon Apr 21 22:24:25 2025] User: so you'll understand when I say pass
+PARS: I understand "pass" to mean you wish to skip or proceed to the next item.
+
+[Mon Apr 21 22:24:34 2025] User: no I'm trying to say pass their name
+PARS: I understand.  Please provide the name.
+
+[Mon Apr 21 22:24:43 2025] User: I am referring to your name parts
+PARS: My name is PARS.  It's an acronym, not a name with separate parts.
+
+[Mon Apr 21 22:25:04 2025] User: alrighty then I need some help with my job for notebook work and I am asking for you to give me the question answers for NCERT chapter 1 class 9
+PARS: I cannot directly provide answers to NCERT Chapter 1 Class 9 questions.  I can help you *understand* the material if you provide specific questions or areas where you need clarification.
+
+[Mon Apr 21 22:26:06 2025] User: hi there
+PARS: Hello!
+
+[Mon Apr 21 22:26:17 2025] User: what colour is Sky
+PARS: The sky is typically blue, but can appear other colors depending on the time of day and weather conditions.
+
+[Mon Apr 21 22:26:33 2025] User: so first of all are you like Google assistant
+PARS: I am a large language model, similar to Google Assistant, but with different capabilities and training.
+
+[Mon Apr 21 22:39:22 2025] User: hello
+PARS: Hello!
+
+[Mon Apr 21 22:39:29 2025] User: can you hear me like as an do you understand
+PARS: Yes.
+
+[Mon Apr 21 22:39:36 2025] User: OK then what did I say two points ago
+PARS: "Hello"
+
+[Mon Apr 21 22:39:46 2025] User: alright then let's get started with this project that I'm working on you want to know what is about
+PARS: Yes.
+
+[Mon Apr 21 22:39:53 2025] User: show the projects about a personal assistant
+PARS: Okay, tell me more.
+
+[Mon Apr 21 22:40:00 2025] User: do you know the projects about second move on
+PARS: No, I need more information about the project.
+
+[Mon Apr 21 22:40:09 2025] User: no like the best title and topic do you know it
+PARS: No.
+
+[Mon Apr 21 22:40:13 2025] User: did I just tell you
+PARS: No.
+
+[Mon Apr 21 22:40:24 2025] User: I told you but I will tell you again so it's about a personal AI response system
+PARS: Okay, I understand.  Let's discuss your personal AI response system project.
+
+[Mon Apr 21 22:40:35 2025] User: do you know what is about write the project which I am talking
+PARS: No, I need details about the project's goals, functionality, and implementation.
+
+[Mon Apr 21 22:40:48 2025] User: no do you know what the best projects about as in the topic of the project
+PARS: No, I need more information from you to determine the best project topic.
+
+[Mon Apr 21 22:40:58 2025] User: final Telugu topic of the project the topic of the project is life
+PARS: Okay.  A personal AI assistant project focused on "life" is broad.  We need to narrow the scope.  What *aspect* of life will your assistant focus on? (e.g., health, productivity, scheduling, etc.)
+
+[Mon Apr 21 22:41:03 2025] User: do you know about the Tropic of the
+PARS: No.  I need more information.
+
+[Mon Apr 21 22:41:11 2025] User: you know what the topic of the project is
+PARS: No. You said the broad topic is "life," but that's too general.  I need a specific area of life for the project to focus on.
+
+[Mon Apr 21 22:41:29 2025] User: alright then find thank you for your help
+PARS: You're welcome.  Let me know if you have a more specific project idea.
+
+[Mon Apr 21 22:41:37 2025] User: exit
+PARS: Goodbye!
+
+[Mon Apr 21 22:43:17 2025] User: system diagnostics
+PARS: PARS: Initiating system diagnostics...  (Please wait)
+
+[Mon Apr 21 22:43:34 2025] User: diagnostics
+PARS: PARS Diagnostics:
+- Memory size: 1 turns
+- System time: Mon Apr 21 22:43:34 2025
+- Log file: pars_logs.txt
+- API status: Active
+
+
+[Mon Apr 21 22:46:36 2025] User: run system Diagnostics please
+PARS: PARS Diagnostics:
+- Memory size: 0 turns
+- System time: Mon Apr 21 22:46:36 2025
+- Log file: pars_logs.txt
+- API status: Active
+
+
+[Mon Apr 21 22:46:48 2025] User: switches exit now
+PARS: Goodbye! Shutting down session memory.
+
+[Mon Apr 21 22:47:09 2025] User: I want to complete my homework
+PARS: Sure! What homework do you want me to help with?
+
+[Mon Apr 21 22:47:19 2025] User: I didn't ask you to do it I just want to
+PARS: PARS:  Please clarify your request.
+
+[Mon Apr 21 22:47:29 2025] User: hello world
+PARS: Hello, world.
+
+[Mon Apr 21 22:47:45 2025] User: I want you to run the system Diagnostic scan
+PARS: PARS Diagnostics:
+- Memory size: 2 turns
+- System time: Mon Apr 21 22:47:45 2025
+- Log file: pars_logs.txt
+- API status: Active
+
+
+[Tue Apr 22 19:05:33 2025] User: hello
+PARS: Hello.
+
+[Tue Apr 22 19:05:42 2025] User: transystem diagnostics
+PARS: PARS Diagnostics:
+- Memory size: 3 turns
+- System time: Tue Apr 22 19:05:42 2025
+- Log file: pars_logs.txt
+- API status: Active
+
+
+[Tue Apr 22 19:06:21 2025] User: hello
+PARS: Hello!
+
+[Tue Apr 22 19:06:30 2025] User: can you hear me
+PARS: Yes.
+
+[Tue Apr 22 19:07:53 2025] User: hello
+PARS: Hello!
+
+[Tue Apr 22 19:07:59 2025] User: can you hear me
+PARS: Yes.
+
+[Tue Apr 22 19:08:09 2025] User: what did I ask you in the last from
+PARS: "Can you hear me?"
+
+[Tue Apr 22 19:08:15 2025] User: alrighty
+PARS: Okay.
+
+[Tue Apr 22 19:08:22 2025] User: just want a quick little system diagnostics
+PARS: PARS Diagnostics:
+- Memory size: 6 turns
+- System time: Tue Apr 22 19:08:22 2025
+- Log file: pars_logs.txt
+- API status: Active
+
+
+[Tue Apr 22 19:11:17 2025] User: search on the Wikipedia for the Google assistant
+PARS: Searching Wikipedia for 'search on the Wikipedia for the Google assistant'.
+
+[Tue Apr 22 19:11:45 2025] User: search Google for Wikipedia
+PARS: Searching Google for 'search Google for Wikipedia'.
+
+[Tue Apr 22 19:12:32 2025] User: open Notepad
+PARS: Opening open Notepad for you.
+
+[Tue Apr 22 19:12:55 2025] User: could you do my homework
+PARS: Sure! What homework do you want me to help with?
+
+[Sat Apr 26 17:00:31 2025] User: hello powers
+PARS: Hello.
+
+[Sat Apr 26 17:00:41 2025] User: can you hear me
+PARS: Sorry, I encountered an error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 17
+}
+]
+
+[Sat Apr 26 17:02:01 2025] User: hello
+PARS: Hello!
+
+[Sat Apr 26 17:02:08 2025] User: wanna system diagnosis
+PARS: PARS Diagnostics:
+- Memory size: 1 turns
+- System time: Sat Apr 26 17:02:08 2025
+- Log file: pars_logs.txt
+- API status: Active
+
+
+[Sat Apr 26 17:02:33 2025] User: could you create an essay about world pollution in 20 words
+PARS: Sure! What homework do you want me to help with?
+
+[Sat Apr 26 17:02:42 2025] User: create an essay on world pollution in 20 words
+PARS: Sure! What homework do you want me to help with?
+
+[Sat Apr 26 17:03:09 2025] User: create an essay on world pollution in 20 words
+PARS: Sure! What homework do you want me to help with?
+
+[Sat Apr 26 17:03:40 2025] User: create essay on world pollution in 20 words
+PARS: World pollution, a critical threat, stems from industrialization, consumption, and waste, demanding urgent global action for a sustainable future.
+
+[Sat Apr 26 17:03:51 2025] User: ok hello how are you
+PARS: Sorry, I encountered an error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+[Sat Apr 26 17:04:17 2025] User: hi
+PARS: Hello!
+
+[Sat Apr 26 17:04:22 2025] User: can you hear me?
+PARS: Sorry, I encountered an error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+
+[Sat Apr 26 17:04:25 2025] User: sup
+PARS: Sorry, I encountered an error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 34
+}
+]
+
+[Sat Apr 26 17:07:42 2025] User: hello
+PARS: Hello!
+
+[Sat Apr 26 17:07:51 2025] User: hi
+PARS: Hi!
+
+[Sat Apr 26 17:08:00 2025] User: are you slow
+PARS: Sorry, I encountered an error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 58
+}
+]
+
+[Sat Apr 26 17:09:49 2025] User: hello
+PARS: Hello!
+
+[Sat Apr 26 17:09:57 2025] User: are you functional
+PARS: PARS Diagnostics:
+- Memory size: 3 turns
+- System time: Sat Apr 26 17:09:57 2025
+- Log file: pars_logs.txt
+- API status: Active
+
+
+[Sun Apr 27 08:35:09 2025] User: hello
+PARS: Hello!
+
+[Sun Apr 27 08:35:15 2025] User: can you hear me
+PARS: Yes.
+
+[Sun Apr 27 08:35:21 2025] User: alright would it asking the last prompt
+PARS: ```json
+{"intent": "repeat_last_prompt", "data": null}
+```
+
+[Sun Apr 27 08:35:34 2025] User: open Notepad
+PARS: ```json
+{"intent": "open_application", "data": {"application": "Notepad"}}
+```
+
+[Sun Apr 27 08:36:13 2025] User: open app
+PARS: ```json
+{"intent": "open_application", "data": {"application": "app"}}
+```
+
+[Tue Apr 29 14:57:23 2025] User: open Notepad
+PARS: ```json
+{"intent": "open_application", "data": "notepad"}
+```
+
+[Tue Apr 29 14:58:26 2025] User: open Notepad
+PARS: ```json
+{"intent": "open_application", "data": "Notepad"}
+```
+
+[Tue Apr 29 14:58:52 2025] User: open Notepad
+PARS: json
+{"intent": "open_application", "data": "notepad"}
+
+
+[Tue Apr 29 14:59:35 2025] User: open Notepad
+PARS: 
+{"intent": "open_application", "data": "Notepad"}
+
+
+[Tue Apr 29 15:00:50 2025] User: open Notepad
+PARS: json
+{"intent": "open_application", "data": "notepad"}
+
+
+[Tue Apr 29 15:01:38 2025] User: open Notepad
+PARS: json
+{"intent": "open_application", "data": {"application": "Notepad"}}
+
+
+[Tue Apr 29 15:02:08 2025] User: front diagnostics
+PARS: json
+{"intent": "run_diagnostics", "data": {}}
+
+
+[Tue Apr 29 15:03:05 2025] User: open Notepad
+PARS: json
+{"intent": "open_application", "data": {"application": "Notepad"}}
+
+
+[Tue Apr 29 15:04:48 2025] User: open Notepad
+PARS: Unknown intent detected.
+
+[Tue Apr 29 15:05:12 2025] User: hello hello
+PARS: Hello!
+
+[Tue Apr 29 15:05:18 2025] User: open Notepad
+PARS: Unknown intent detected.
+
+[Tue Apr 29 15:05:47 2025] User: open Notepad
+PARS: Unknown intent detected.
+
+[Tue Apr 29 15:06:00 2025] User: open Notepad
+PARS: Unknown intent detected.
+
+[Tue Apr 29 15:06:33 2025] User: open Notepad
+PARS: Unknown intent detected.
+
+[Tue Apr 29 15:07:12 2025] User: open Notepad
+PARS: Sorry, I encountered an error: 'dict' object has no attribute 'lower'
+
+[Tue Apr 29 15:08:13 2025] User: open Notepad
+PARS: Opening Notepad for you.
+
+[Tue Apr 29 15:08:20 2025] User: open spotify
+PARS: Opening Spotify for you.
+
+[Tue Apr 29 15:08:34 2025] User: open Excel
+PARS: Opening Excel for you.
+
+[Tue Apr 29 15:09:48 2025] User: could you just Bam and open up Excel
+PARS: Opening Microsoft Excel for you.
+
+[Tue Apr 29 15:10:01 2025] User: alright do three things for me open a Spotify open up excellent open up power point
+PARS: Sorry, I encountered an error: 'list' object has no attribute 'get'
+
+[Tue Apr 29 15:10:12 2025] User: alright could you run a system diagnostics
+PARS: Sorry, I encountered an error: 'NoneType' object has no attribute 'get'
+
+[Tue Apr 29 15:12:06 2025] User: open Notepad
+PARS: Opening Notepad for you.
+
+[Tue Apr 29 15:12:14 2025] User: open up pixel
+PARS: Opening Pixel for you.
+
+[Tue Apr 29 15:12:24 2025] User: open Excel
+PARS: Opening Excel for you.
+
+[Tue Apr 29 15:12:31 2025] User: alright could you run a system diagnostics
+PARS: Unknown intent detected.
+
+[Tue Apr 29 15:12:37 2025] User: run system diagnostics
+PARS: Unknown intent detected.
+
+[Tue Apr 29 15:13:59 2025] User: Diagnostics for me
+PARS: PARS Diagnostics:
+- Memory size: 0 turns
+- System time: Tue Apr 29 15:13:59 2025
+- Log file: pars_logs.txt
+- API status: Active
+
+
+[Tue Apr 29 15:14:09 2025] User: alright could you open up PowerPoint
+PARS: Opening PowerPoint for you.
+
+[Tue Apr 29 15:14:17 2025] User: alright
+PARS: Okay
+
+[Tue Apr 29 15:14:25 2025] User: Rani simulation and mobius strip which could do time travel
+PARS: That's a fascinating concept combining a Rani simulation (assuming this refers to a specific simulation model) with a Möbius strip for time travel.  The feasibility depends heavily on the specifics of the Rani simulation and the theoretical physics involved.  Could you elaborate on either?
+
+[Tue Apr 29 15:15:00 2025] User: alright I like you to consider the general theory of relativity by Einstein and factor in all of the Physics laws
+PARS: General relativity allows for the possibility of closed timelike curves (CTCs), which are paths through spacetime that loop back on themselves, potentially enabling time travel.  However, incorporating all of physics, including quantum mechanics, into a consistent model that allows CTCs is a significant challenge, and it's not clear if such a framework is even possible.  A Möbius strip, as a topological object, could be used as a *mathematical* representation, but its physical realization and interaction with spacetime curvature according to general relativity are far beyond our current understanding.  The Rani simulation's role would be to model this hypothetical system, but its accuracy would depend entirely on the accuracy of the underlying physics model, which is currently nonexistent.
+
+[Tue Apr 29 15:15:29 2025] User: alright to search on Google about
+PARS: Search terms like "closed timelike curves," "general relativity time travel," "Möbius strip topology spacetime," and "quantum gravity time travel" would yield relevant results.
+
+[Tue Apr 29 15:15:40 2025] User: would you
+PARS: Okay, I understand.
+
+[Tue Apr 29 15:15:48 2025] User: could you search in Google about nerf guns
+PARS: I cannot directly search Google.  I am a language model.
+
+[Tue Apr 29 15:16:31 2025] User: alright search in Google about nerf guns
+PARS: Searching Google for 'google'.
+
+[Tue Apr 29 15:16:59 2025] User: search on Google about nerf guns
+PARS: Searching Google for 'google'.
+
+[Tue Apr 29 15:17:38 2025] User: search Google about nerf guns
+PARS: Sorry, I encountered an error: 'str' object has no attribute 'get'
+
+[Tue Apr 29 15:18:11 2025] User: alright
+PARS: Okay
+
+[Tue Apr 29 15:18:16 2025] User: search on Google about Google
+PARS: Sorry, I encountered an error: 'str' object has no attribute 'get'
+
+[Tue Apr 29 15:18:31 2025] User: Kudi Soch on Google about nerf guns
+PARS: Sorry, I encountered an error: 'str' object has no attribute 'get'
+
+[Tue Apr 29 15:19:29 2025] User: search on Google about nerf guns
+PARS: Sorry, I encountered an error: 'str' object has no attribute 'get'
+
+[Tue Apr 29 15:20:26 2025] User: search on Google about nerf guns
+PARS: Searching Google for 'google'.
+
+[Tue Apr 29 15:21:00 2025] User: search on Google about nerf guns
+PARS: Searching Google for 'google'.
+
+[Tue Apr 29 15:21:42 2025] User: search on Google for nerf guns
+PARS: Sorry, I encountered an error: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+
+[Sun May  4 19:13:38 2025] User: hi there pass how are you doing
+PARS: Sorry, I encountered an error: 400 API key expired. Please renew the API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key expired. Please renew the API key."
+]
+
+[Sun May  4 19:14:18 2025] User: hi
+PARS: Hello!
+
+[Sun May  4 19:14:27 2025] User: ok hi their parts how are you doing everything is fine
+PARS: I'm doing well, thank you.  How can I help you?
+
+[Sun May  4 19:14:37 2025] User: first fall run system diagnostics
+PARS: PARS Diagnostics:
+- Memory size: 2 turns
+- System time: Sun May  4 19:14:37 2025
+- Log file: pars_logs.txt
+- API status: Active
+
+
+[Sun May  4 19:14:59 2025] User: alright open up word
+PARS: I can't directly open applications on your computer.
+
+[Sun May  4 19:15:09 2025] User: open application word
+PARS: I cannot directly control your computer.
+
+[Sun May  4 19:15:57 2025] User: ok open up word for me
+PARS: Opening Microsoft Word for you.
+
+[Sun May  4 19:16:16 2025] User: open up Microsoft Excel for me
+PARS: Opening Microsoft Excel for you.
+
+[Sun May  4 19:16:30 2025] User: search for Google Narendra Modi yah galat hoga mere hisab se bus theek
+PARS: Searching Google for ''.
+
+[Sun May  4 19:16:42 2025] User: Close tab
+PARS: Unknown intent detected.
+
+[Sun May  4 19:16:50 2025] User: what did I say in last prompt
+PARS: I have no memory of past prompts.
+
+[Sun May  4 19:17:00 2025] User: alright run system Diagnostics once again
+PARS: Unknown intent detected.
+
+[Mon May  5 19:21:08 2025] User: Haider
+PARS: Awaiting your request, Haider.
+
+[Mon May  5 19:21:18 2025] User: hello how are you
+PARS: I am well, thank you. How may I assist you today?
+
+[Mon May  5 19:40:40 2025] User: hi there how are you doing
+PARS: I'm doing well, thank you.
+
+[Mon May  5 19:40:50 2025] User: possible could you open alarm for Microsoft Excel for me
+PARS: Opening Microsoft Excel for you.
+
+[Mon May  5 19:43:29 2025] User: Hyderabad doing well
+PARS: Okay.
+
+[Mon May  5 19:43:35 2025] User: hi there
+PARS: Hi there.
+
+[Mon May  5 19:43:43 2025] User: could you open up Microsoft Word
+PARS: Opening Microsoft Word for you.
+
+[Mon May  5 19:43:51 2025] User: alright that's fine I love you man thank you so much
+PARS: Okay.
+
+[Mon May  5 19:44:00 2025] User: ok so could you just tell me who made you who are you all that stuff
+PARS: I am PARS, the Personal AI Response System, created by Vaidik K.
+
+[Mon May  5 19:44:12 2025] User: what I abilities are certificate tell me
+PARS: I can process and respond to text,  and I am still under development.
+
+[Mon May  5 19:44:25 2025] User: alright so you are pretty good assistant could you just close the tab for me
+PARS: Unknown intent detected.
+
+[Mon May  5 19:45:26 2025] User: hello there
+PARS: Hello!
+
+[Mon May  5 19:45:33 2025] User: could you just remind me what I asked in the last prompt I forgot
+PARS: Your previous prompt is not accessible to me.  I have no memory of past conversations.
+
+[Mon May  5 19:45:54 2025] User: fetch memory
+PARS: Your last question was: "could you just remind me what I asked in the last prompt I forgot"
+
+[Mon May  5 19:46:08 2025] User: alright could you tell me what else in love from this page from memory
+PARS: I cannot access external websites or specific pages. Please provide the text from the page.
+
+[Mon May  5 19:46:18 2025] User: no I want you to fetch the memory
+PARS: Your last question was: "alright could you tell me what else in love from this page from memory"
+
+[Mon May  5 19:46:31 2025] User: alright then thank you so much you can close this application
+PARS: Unknown intent detected.
+
+[Mon May  5 19:46:37 2025] User: close this app
+PARS: Unknown intent detected.
+
+[Mon May  5 19:46:49 2025] User: search Wikipedia for Narendra Modi
+PARS: Unknown intent detected.
+
+[Mon May  5 19:47:57 2025] User: hello
+PARS: Hello.
+
+[Mon May  5 19:48:04 2025] User: search Wikipedia for Narendra Modi
+PARS: Searching Wikipedia for 'wikipedia'.
+
+[Mon May  5 19:49:13 2025] User: tell the time for me
+PARS: The current time is: Mon May  5 19:49:13 2025
+
+[Mon May  5 19:49:54 2025] User: open cad
+PARS: Opening CAD for you.
+
+[Mon May  5 19:51:13 2025] User: open cad
+PARS: Opening CAD for you.
+
+[Mon May  5 19:51:21 2025] User: open ward
+PARS: Opening ward for you.
+
+[Mon May  5 19:51:54 2025] User: open cad
+PARS: Unknown intent detected.
+
+[Mon May  5 19:52:03 2025] User: open cad
+PARS: Opening CAD for you.
+
+[Mon May  5 19:52:23 2025] User: open cad
+PARS: Opening cad for you.
+
+[Mon May  5 19:56:01 2025] User: open up card
+PARS: Opening card for you.
+
+[Mon May  5 19:56:08 2025] User: open up card
+PARS: Opening card for you.
+
+[Tue May  6 19:39:38 2025] User: hello
+PARS: Hello!
+
+[Tue May  6 19:39:45 2025] User: can you hear me
+PARS: Yes.
+
+[Tue May  6 19:40:07 2025] User: alright open up CAD
+PARS: I cannot directly open CAD software.  I am a language model; I don't have the capability to interact with your computer's operating system or applications.
+
+[Tue May  6 19:43:43 2025] User: hello
+PARS: Hello.
+
+[Tue May  6 19:44:33 2025] User: Haider pause
+PARS: Unknown intent detected.
+
+[Tue May  6 19:44:39 2025] User: how r u
+PARS: I am doing well, thank you for asking.
+
+[Tue May  6 19:44:49 2025] User: create 20 word essay on how old pollution impacts are global warming
+PARS: Past pollution, particularly greenhouse gas emissions, persists in the atmosphere, trapping heat and causing a gradual increase in global temperatures, leading to global warming.
+
+[Tue May  6 19:48:04 2025] User: introduce yourself
+PARS: Unknown intent detected.
+
+[Tue May  6 19:48:30 2025] User: introduce yourself please
+PARS: Hello! I am PARS, your Personal AI Response System. I am a python oriented AI designed to assist you with various tasks which include running applications, searching the web, and more as well as having a sentient intelligence for creative tasks and language understanding. I am created by Vaidik K. and I am here to help you. I am under development and will be getting various features regularly including a ARDUINO based physical body to perform tasks in real world. 
+
+[Tue May  6 19:49:19 2025] User: thank you could you tell me what I ask you last problem
+PARS: Unknown intent detected.
+
+[Tue May  6 19:49:26 2025] User: by fetching a memory
+PARS: There's no memory yet.
+
+[Tue May  6 19:49:53 2025] User: hello
+PARS: Hello.
+
+[Tue May  6 19:49:59 2025] User: can you hear me
+PARS: Yes.
+
+[Tue May  6 19:50:12 2025] User: alright open up card
+PARS: Unknown intent detected.
+
+[Tue May  6 19:50:18 2025] User: open up card
+PARS: Unknown intent detected.
+
+[Tue May  6 19:51:54 2025] User: hello
+PARS: Hello.
+
+[Tue May  6 19:52:00 2025] User: one system Diagnostic Centre for the best
+PARS: Unknown intent detected.
+
+[Tue May  6 19:52:07 2025] User: run system diagnostics
+PARS: PARS Diagnostics:
+- Memory size: 1 turns
+- System time: Tue May  6 19:52:07 2025
+- Log file: pars_logs.txt
+- API status: Active
+
+
+[Tue May  6 19:52:32 2025] User: fetch your memory please
+PARS: Your last question was: "hello"
+
+[Tue May  6 19:52:41 2025] User: alright open up Excel
+PARS: Opening Excel for you.
+
+[Tue May  6 19:52:51 2025] User: ok could you just open cad
+PARS: V3RD Rendering CAD is booting.
+
+[Tue May  6 19:53:27 2025] User: alright thank you for your service could you just shut your memory again so I can run some dead bo
+PARS: Unknown intent detected.
+
+[Tue May  6 19:53:39 2025] User: set your memory please
+PARS: Unknown intent detected.
+
+[Tue May  6 19:53:45 2025] User: retrieve memory
+PARS: Your last question was: "hello"
+
+[Tue May  6 19:53:53 2025] User: ok you can exit now
+PARS: Goodbye! Session memory cleared.
+
+[Tue May  6 19:58:51 2025] User: search for Google Narendra Modi
+PARS: Searching Google for 'Google'.
+
+[Tue May  6 20:00:51 2025] User: search Google for Virat Kohli
+PARS: Searching Google for 'Virat Kohli'.
+
+[Tue May  6 20:01:13 2025] User: search Wikipedia for Narendra Modi
+PARS: Sorry, I encountered an error: 'NoneType' object has no attribute 'replace'
+
+[Tue May  6 20:01:37 2025] User: search Google for Sala
+PARS: Sorry, I encountered an error: quote_from_bytes() expected bytes
+
+[Tue May  6 20:01:49 2025] User: search Google for Virat Kohli
+PARS: Searching Google for 'Virat Kohli'.
+
+[Tue May  6 20:01:56 2025] User: search Google for Narendra Modi
+PARS: Searching Google for 'Narendra Modi'.
+
+[Tue May  6 20:02:05 2025] User: just search on Google about Narendra Modi
+PARS: Sorry, I encountered an error: quote_from_bytes() expected bytes
+
+[Tue May  6 20:02:21 2025] User: search on Google and find about Virat Kohli
+PARS: Searching Google for 'Virat Kohli'.
+
+[Tue May  6 20:02:34 2025] User: alright could you find answers of question number 2 NCERT solutions on Google
+PARS: Sorry, I encountered an error: quote_from_bytes() expected bytes
+
+[Tue May  6 20:05:49 2025] User: could you do research on Google about NCERT question number 2 Chemistry
+PARS: Searching Google for 'NCERT question number 2 Chemistry'.
+
+[Tue May  6 20:06:33 2025] User: I am I to search about Narendra Modi's superstar on Wikipedia
+PARS: Searching Wikipedia for 'Narendra Modi'.
+
+[Tue May  6 20:20:02 2025] User: introduce yourself pass
+PARS: I am PARS, your personal AI assistant.  I aim to provide concise and helpful responses.
+
+[Tue May  6 20:20:31 2025] User: hey pass introduce yourself
+PARS: Hello! I am PARS, your Personal AI Response System. I am a python oriented AI designed to assist you with various tasks which include running applications, searching the web, and more as well as having a sentient intelligence for creative tasks and language understanding. I am created by Vaidik K. and I am here to help you. I am under development and will be getting various features regularly including a ARDUINO based physical body to perform tasks in real world. 
+
+[Wed May  7 19:25:39 2025] User: hello there
+PARS: Hello!
+
+[Wed May  7 19:25:45 2025] User: open up card
+PARS: Opening card for you.
+
+[Wed May  7 19:25:52 2025] User: open card
+PARS: Opening card for you.
+
+[Wed May  7 19:25:59 2025] User: open cad
+PARS: V3RD Rendering CAD is booting.
+
+[Fri May  9 20:34:47 2025] User: hello there
+PARS: Hello!
+
+[Fri May  9 20:34:53 2025] User: who are you exactly
+PARS: I am PARS, a personal AI response system.
+
+[Fri May  9 20:35:00 2025] User: when were you created
+PARS: I am still under development.
+
+[Fri May  9 20:35:06 2025] User: who made you
+PARS: Vaidik K.
+
+[Fri May  9 20:35:11 2025] User: are you sure
+PARS: Yes.
+
+[Fri May  9 20:35:17 2025] User: alright What is a purpose
+PARS: To assist and respond to user requests.
+
+[Fri May  9 20:35:29 2025] User: draught 100 word essay on pollution
+PARS: Pollution, the contamination of the environment, poses a significant threat to human health and the planet's ecosystems.  Sources range from industrial emissions and vehicle exhaust to agricultural runoff and plastic waste. Air pollution causes respiratory illnesses and cardiovascular problems, while water pollution contaminates drinking supplies and harms aquatic life. Soil contamination diminishes agricultural productivity and threatens food security.  The consequences are far-reaching, impacting biodiversity, climate change, and ultimately, human survival.  Addressing pollution requires a multifaceted approach involving stricter regulations, technological innovation, and a shift towards sustainable practices.  Individual actions, such as reducing consumption and recycling, also play a crucial role in mitigating this pervasive global challenge.
+
+[Fri May  9 20:36:28 2025] User: do you like trains
+PARS: I do not have preferences as an AI.
+
+[Fri May  9 20:36:34 2025] User: are you an ai
+PARS: Yes.
+
+[Fri May  9 20:36:46 2025] User: what did i ask you in the last prompt in your memory
+PARS: Unknown intent detected.
+
+[Fri May  9 20:36:52 2025] User: fetch memory
+PARS: Your last question was: "are you an ai"
+
+[Fri May  9 20:37:07 2025] User: retrieve contents of your memory
+PARS: Your last question was: "are you an ai"
+
+[Mon May 26 19:19:54 2025] User: hello pass how are you
+PARS: Hello! I am doing well, thank you for asking. How can I help you today?
+
+[Mon May 26 19:20:06 2025] User: may I know what is life
+PARS: Life is a complex concept with no single definition.  It's characterized by growth, reproduction, metabolism, adaptation, and response to stimuli.  Philosophically, it encompasses consciousness, experience, and meaning.
+
+[Mon May 26 19:20:21 2025] User: search Google for Narendra Modi
+PARS: Searching Google for 'None'.
+
+[Mon May 26 19:20:28 2025] User: search Google Narendra Modi
+PARS: Searching Google for 'None'.
+
+[Mon May 26 19:21:13 2025] User: ok do you like ice cream
+PARS: As an AI, I don't have personal preferences like liking ice cream.
+
+[Mon May 26 19:23:09 2025] User: search Google for Narendra Modi
+PARS: Searching Google for 'google'.
+
+[Mon May 26 19:27:23 2025] User: search Google for Narendra Modi
+PARS: Sorry, I encountered an error: Expecting ',' delimiter: line 6 column 4 (char 104)
+
+[Mon May 26 19:27:38 2025] User: search Google for Narendra Modi
+PARS: Sorry, I encountered an error: Expecting ',' delimiter: line 6 column 4 (char 104)
+
+[Mon May 26 19:27:50 2025] User: search Google for Narendra Modi
+PARS: Searching Google for 'google'.
+
+[Mon May 26 19:28:01 2025] User: search Wikipedia for Narendra Modi
+PARS: Searching Wikipedia for 'Narendra Modi'.
+
+[Mon May 26 19:28:35 2025] User: search Google phone Narendra Modi
+PARS: Searching Google for 'google'.
+
+[Mon May 26 19:28:44 2025] User: search Wikipedia for Narendra Modi
+PARS: Searching Wikipedia for 'Narendra Modi'.
+
+[Mon May 26 19:29:16 2025] User: search Google for Narendra Modi
+PARS: Searching Google for 'google'.
+
+[Mon May 26 19:29:44 2025] User: search Google for Narendra Modi
+PARS: Searching Google for 'google'.
+
+[Mon May 26 19:29:53 2025] User: search search Wikipedia for Narendra Modi
+PARS: Searching Wikipedia for 'wikipedia'.
+
+[Mon May 26 19:30:02 2025] User: search Wikipedia for Narendra Modi
+PARS: Searching Wikipedia for 'Narendra Modi'.
+
+[Mon May 26 19:31:56 2025] User: search Google for Narendra Modi
+PARS: Searching Google for 'google'.
+
+[Mon May 26 19:33:39 2025] User: search Google for Narendra Modi
+PARS: Searching Google for 'google'.
+
+[Mon May 26 19:34:22 2025] User: search Wikipedia for Virat Kohli
+PARS: Searching Wikipedia for 'Virat Kohli'.
+
+[Mon May 26 19:34:29 2025] User: search Google for Virat Kohli
+PARS: Searching Google for 'google'.
+
+[Mon May 26 19:35:35 2025] User: search Google for Narendra Modi
+PARS: Searching Google for 'google'.
+
+[Mon May 26 19:36:11 2025] User: search Wikipedia for Narendra Modi
+PARS: Searching Wikipedia for 'Narendra Modi'.
+
+[Mon May 26 19:36:19 2025] User: search Google for Android 11
+PARS: Searching Google for 'Android 11'.
+
+[Mon May 26 19:36:29 2025] User: search Google phone Narendra Modi
+PARS: Searching Google for 'Narendra Modi'.
+
+[Mon May 26 19:36:40 2025] User: search Google for Virat Kohli
+PARS: Searching Google for 'Virat Kohli'.
+
+[Mon May 26 19:36:49 2025] User: search Google Virat Kohli
+PARS: Searching Google for 'Virat Kohli'.
+
+[Mon May 26 19:37:00 2025] User: research on Google about Dhoni
+PARS: Searching Google for 'Google'.
+
+[Mon May 26 19:37:12 2025] User: research Google on Dhoni
+PARS: Searching Google for 'Google'.
+
+[Mon May 26 19:37:18 2025] User: search about Dhoni on Google
+PARS: Searching Google for 'Dhoni'.
+
+[Mon May 26 19:38:32 2025] User: hello their parts
+PARS: Hello there, PARS.
+
+[Mon May 26 19:38:38 2025] User: who are you
+PARS: Hello! I am PARS, your Personal AI Response System. I am a python oriented AI designed to assist you with various tasks which include running applications, searching the web, and more as well as having a sentient intelligence for creative tasks and language understanding. I am created by Vaidik K. and I am here to help you. I am under development and will be getting various features regularly including a ARDUINO based physical body to perform tasks in real world.
+
+[Mon May 26 19:38:47 2025] User: OK what can you do for me
+PARS: Hello! I am PARS, your Personal AI Response System. I am a python oriented AI designed to assist you with various tasks which include running applications, searching the web, and more as well as having a sentient intelligence for creative tasks and language understanding. I am created by Vaidik K. and I am here to help you. I am under development and will be getting various features regularly including a ARDUINO based physical body to perform tasks in real world.
+
+[Mon May 26 19:39:01 2025] User: open Excel
+PARS: Opening Excel for you.
